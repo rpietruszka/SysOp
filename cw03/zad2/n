@@ -1,0 +1,7 @@
+#w 3
+#a 4
+#TEST 5
+echo $HOME
+cd #HOME
+echo #PWD
+mkdir ./Test_DIR

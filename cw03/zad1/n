@@ -1,0 +1,10 @@
+#w 3
+#a 4
+#TEST 5
+#agh wiet
+echo #PATH
+./gete.o agh
+ls #HOME
+mkdir -p #agh
+cat /etc/os-release
+
